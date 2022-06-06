@@ -1,4 +1,6 @@
 ### TWO_IMAGES
+    Internally, it consists in a table with a single row and two cells with an image each
+        
             Page
             ▲      Cell 1        Cell 2
             │      ▲             ▲
