@@ -34,3 +34,16 @@
 Create a new row with the following properties:
 - type: 'TWO_IMAGES'
 - value: ['left image ulr', 'right image ulr']
+
+
+
+# TWO_TEXTS
+
+### Examples of firstColumnWidth
+- firstColumnWidth = 'auto'
+<img width="682" alt="image" src="https://user-images.githubusercontent.com/6186848/172263457-c34e05ee-ec3a-4168-be3e-f16d0d156447.png">
+
+- firstColumnWidth = 200
+<img width="682" alt="image" src="https://user-images.githubusercontent.com/6186848/172263485-9407d95c-055b-4641-86ee-c9eb2ec64ce0.png">
+
+
