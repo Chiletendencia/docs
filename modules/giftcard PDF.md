@@ -45,3 +45,8 @@ Create a new row with the following properties:
 
 - firstColumnWidth = 'auto':
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/6186848/172263485-9407d95c-055b-4641-86ee-c9eb2ec64ce0.png">
+
+# TEXT_IMAGE
+### Example
+- textMargin: [10, 30], fontSize: 12, alignament: 'center'
+<img width="673" alt="image" src="https://user-images.githubusercontent.com/6186848/172298605-ee26315f-d61e-422b-aad1-9b4689244715.png">
