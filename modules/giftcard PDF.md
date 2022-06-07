@@ -59,3 +59,7 @@ Create a new row with the following properties:
 # Other Examples
 - type: 'TEXT', value: '{GIFTCARD_CODE_IMAGE}', margin: [160, 0]
 <img width="712" alt="image" src="https://user-images.githubusercontent.com/6186848/172304108-db0ff9b0-07e1-465b-bb28-7d0d37b5fe03.png">
+
+- type: 'TEXT', value: '{GIFTCARD_CODE_IMAGE}', margin: [168, 16, 0, 0]
+- type: 'TEXT', valie: '{GIFTCARD_CODE_TEXT}', alignment: 'center'
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/6186848/172308392-83e953c2-6a18-4be0-a317-40a0fc2f82c5.png">
