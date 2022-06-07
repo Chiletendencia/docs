@@ -50,3 +50,8 @@ Create a new row with the following properties:
 ### Example
 - textMargin: [10, 30], fontSize: 12, alignament: 'center'
 <img width="673" alt="image" src="https://user-images.githubusercontent.com/6186848/172298605-ee26315f-d61e-422b-aad1-9b4689244715.png">
+
+
+# Other Examples
+- type: 'TEXT', value: '{GIFTCARD_CODE_IMAGE}', margin: [160, 0]
+<img width="712" alt="image" src="https://user-images.githubusercontent.com/6186848/172304108-db0ff9b0-07e1-465b-bb28-7d0d37b5fe03.png">
