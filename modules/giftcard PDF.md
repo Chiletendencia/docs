@@ -1,5 +1,6 @@
-# Explanatory Video
-[Video explicando a Marko](https://youtu.be/NyTUSNqdaOE)
+# Explanatory Videos
+- [Video explicando a Marko](https://youtu.be/NyTUSNqdaOE)
+- [Allow PDF storage resources from prod and dev environments](https://youtu.be/YBzGHz1aiCs)
 
 # Technical details
 ## TWO_IMAGES
