@@ -2,7 +2,7 @@
 - [Video explicando a Marko](https://youtu.be/NyTUSNqdaOE)
 - [Allow PDF storage resources from prod and dev environments](https://youtu.be/YBzGHz1aiCs)
 
-# Technical details
+# Technical details (work in progress)
 ## TWO_IMAGES
     Internally, it consists in a table with a single row and two cells with an image each
         
